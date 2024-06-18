@@ -5,6 +5,7 @@
 Welcome to the **UEFA Euro Championship Data Analysis Repository**!
 
 This project aims to provide comprehensive insights into various aspects of the UEFA Euro Championship using interactive visualizations.
+[Check out the webapp!](https://uefa-euro-data-analysis.streamlit.app)
 
 I have gathered all the data from past tournaments to build an interactive way to explore:
 
